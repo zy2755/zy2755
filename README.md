@@ -14,6 +14,7 @@
 
 ### 🧊 现在在折腾
 
+- **项目管家 Project Hub** —— 把「本地项目文件夹 ↔ GitHub 仓库」管起来：扫描导入、实时 Git 状态、一键跳转
 - **液态玻璃** —— 在 Android Compose 和 Web 里复刻 iOS 26 那套折射效果，并整理成可复用的方案
 - **AnonSchedule** —— 自己的课表 App，一路接进教务系统和学习通
 - **AI Agent 工具链** —— MCP server、用量抓取、浏览器自动化
@@ -40,6 +41,7 @@
 
 | 项目 | 一句话 | 栈 |
 | :-- | :-- | :-- |
+| [project-hub](https://github.com/zy2755/project-hub) | 项目管家：本地项目文件夹 ↔ GitHub 仓库的映射管理，扫描导入 / 实时 Git 状态 / 快捷筛选，纯标准库零依赖 | Python |
 | [picline](https://github.com/zy2755/picline) | 图墙 · 截图，晾起来 —— 把每张截图挂到屏幕顶端的晾衣绳上 | JavaScript |
 | [MuFileTools](https://github.com/zy2755/MuFileTools) | 文件转换器：PDF / Word / Excel → 图片或文件，外加图片转 ICO | Python |
 | [display-dimmer-zh](https://github.com/zy2755/display-dimmer-zh) | Display Dimmer 的非官方简体中文汉化工具包（只放工具与词典，不含二进制） | C# |
@@ -75,6 +77,7 @@
 - 相信**最好的工具是刚好解决自己问题的那一个** —— 所以仓库里全是我自己天天在用的东西
 - 界面能多看一眼就多看一眼，动画掉一帧会难受
 - 写东西的习惯：先让它在本地跑通，再搬上来
+- 偏爱零依赖 —— 能靠标准库解决的，就不多装一个包
 - 上游致敬：[Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)，液态玻璃的很多启发来自他
 
 <br>
